@@ -5,4 +5,4 @@ https://www.publish0x.com/crypto-project/cointiger-exchange-big-revelation-about
 
 https://github.com/ccxt/ccxt/issues/6223#issuecomment-562174045
 
-
+https://supportproton.zendesk.com/hc/en-us/articles/360032429192--Aug-21-An-Official-WARNING-on-the-recent-of-Illegal-Stealing-at-CoinTiger-Exchange
